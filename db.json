@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "firstname": "jaY",
+      "lastname": "tiwari",
+      "email": "eherhgjk",
+      "dob": "2023-05-09T18:30:00.000Z",
+      "education": "Post Graduate",
+      "mobile": 8770141858,
+      "address": "dewas",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "firstname": "suraj",
+      "lastname": "joshi",
+      "email": "sgdkf",
+      "dob": "2023-05-02T18:30:00.000Z",
+      "education": "Post Graduate",
+      "mobile": 8588,
+      "address": "ujjian",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "firstname": "RAVI",
+      "lastname": "RAJ SINGH CHOUHAN",
+      "email": "chouhanraviraj67@gmail.com",
+      "dob": "2023-04-30T18:30:00.000Z",
+      "education": "Graduate",
+      "mobile": 8770141705,
+      "address": "319, Ganga Nagar Road",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "firstname": "dffg",
+      "lastname": "b",
+      "email": "dfdfb",
+      "dob": "2023-09-02T18:30:00.000Z",
+      "education": "Diploma",
+      "mobile": 988999898,
+      "address": "deww",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "firstname": "fdg",
+      "lastname": "sg",
+      "email": "fg",
+      "dob": "2023-09-03T18:30:00.000Z",
+      "education": "Intermediate",
+      "mobile": 878678,
+      "address": "sdg",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "firstname": "jaY",
+      "lastname": "tiwari",
+      "email": "eherhgjk",
+      "dob": "2023-05-09T18:30:00.000Z",
+      "education": "Post Graduate",
+      "mobile": 8770141858,
+      "address": "dewas",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "firstname": "suraj",
+      "lastname": "joshi",
+      "email": "sgdkf",
+      "dob": "2023-05-02T18:30:00.000Z",
+      "education": "Post Graduate",
+      "mobile": 8588,
+      "address": "ujjian",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "firstname": "RAVI",
+      "lastname": "RAJ SINGH CHOUHAN",
+      "email": "chouhanraviraj67@gmail.com",
+      "dob": "2023-04-30T18:30:00.000Z",
+      "education": "Graduate",
+      "mobile": 8770141705,
+      "address": "319, Ganga Nagar Road",
+      "gender": "male",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
